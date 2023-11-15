@@ -1,5 +1,4 @@
-all games installed are the property of MaddyMakesGames inc a subsidary of @GEmYt844. any distribution of these games without the explict permision of Maddy will result in legal action. do not sell these games or claim them as your own.
-
+pls do not claim these games as your own
 
 
 to run the games either launch them from your taskbar(after you have linked the .exe files to the taskbar by clicking on the exe and draging it over the task bar untill a little popup that says link appears then let go)
@@ -11,3 +10,15 @@ to update the games download the latest version of the game folder delete the ol
 to exit the games alt-f4 there is no saving mechanick as of current.
 have fun
 -Maddy
+
+Asset Credits
+-all music and the skybox from sanscraft if made by toby fox
+-the backround music in MindCraft is made by lena raine
+-the punch sound in MindCraft is my rfreind saying "e" into a headphone mic
+-the brain in mindcraft is a random image i found online
+-all the sharks are blajais i found on r/traaaaaaannnnnnns
+-the sounds in Blajai Craft are made by c418 and the mojang team and are from minecarft (i have minecarft on multiple platforms so i just got the sounds from there)
+-all ground, hand, and block textures are made by me
+-all icons are blajai i found on reddit except the sanscraft one whitch is made by toby fox
+-all platformer assets are made by me
+-and aboveusly i made all the code
