@@ -15,7 +15,7 @@ have fun
 
 Asset Credits
 -all music and the skybox from sanscraft if made by toby fox
--the backround music in MindCraft is made by lena raine
+-the backround music in MindCraft is made by lena raine (from celeste, i have purchased celeste on my switch)
 -the punch sound in MindCraft is my rfreind saying "e" into a headphone mic
 -the brain in mindcraft is a random image i found online
 -all the sharks are blajais i found on r/traaaaaaannnnnnns
