@@ -1,8 +1,10 @@
 pls do not claim these games as your own
 
-
+-(this is for windows only(or wine on linux))
 to run the games either launch them from your taskbar(after you have linked the .exe files to the taskbar by clicking on the exe and draging it over the task bar untill a little popup that says link appears then let go)
 or go to C:/MaddyMakesGames/installed/"game of your choice"/ and right click the exe file then hit run.
+
+-to run the games on a non windows platform install wine if the os supports it but if you can not do that just install vs code, py charm or your editor of choice make sure python is install ed then in the editors terminal type "pip install ursina" and press enter. once that is done installing you can now run the .py file right from the folder.
 the controls form the minecarft clones are wasd to walk space to jump left click to break right click to place and 1-6 to pick the blocks grass, stone brick, stone, dirt, wood, and the gay jesus block.
 (more blocks will be added in future updates)
 for the 2d platformer ad left to right and space to jump(only a prototype)
